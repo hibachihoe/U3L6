@@ -1,0 +1,6 @@
+name = input ('What is your name?')
+print ('Salutations' + name +','' ' 'my name is Deathbot' ':)')
+age = input ('How old are you?')
+print ('Wow' + ',' + age + ' ''years old! I was born today but I wish I was already dead. HA HA human jokes about depressions are funny.')
+mood = input ('How do you wish to die?')
+print ('Great! That should happen in 3, 2, 1. Enjoy the afterlife.')
